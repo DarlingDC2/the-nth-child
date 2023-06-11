@@ -1,6 +1,6 @@
 :root {
     --grey: #45535c;
-  }
+}
 
 body {
     background-color: #198688;
@@ -39,48 +39,85 @@ a {
   
 .content h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 38px;
 }
 
 .contents {
     margin: 20px;
     padding: 50px;
+    border-left: 6px solid var(--grey 
+    ); 
+    padding-top: 1;  
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
 }
 
 .contents p {
-    margin-left: 200px;
     padding: 50px;
+    font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
 }
 
 .flex {
     display: flex;
-    justify-content: space-evenly;
-    margin-left:200px;
-    margin-right: 200px;
-    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    flex-wrap: wrap;
+    margin: 40px 20px 40px 40px;
+    box-shadow: 1px 0px 1px 0 rgba(0,0,0,0.2), 20px 20px 20px 0 rgba(0,0,0,0.19);
 }
 .flex img{
-        width: 100%;
-        max-width:  600px;
+    border-radius: 8px;
+    width: 100%;
+    max-width:  600px;
+    margin: 40px;
+}
+
+.fade {
+    border: 0px;
+    border-radius: 8px; 
+    background-color: #198688;
+    transition: background-color .5s;
+}
+  
+.fade:hover {
+    background-color: #004369;
+}
+
+.fade:focus,
+.fade:active {
+    transition: none;
 }
 
 .contact {
+    
     margin: 20px;
     padding: 50px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
+    text-align: center;
+}
+
+.contact div {
+    padding-top: 20px;
+    margin-right: 20px;
+    float: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+.contact div ul li {
+    display: inline-block;
+    margin: 0px 15px 0px;
 }
 
 .resume {
-    margin: 20px;
-    padding: 50px;
-    font-size: 30px;
+    font-size: 25px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: var(--grey);
+    text-align: center;
 }
 
 .footer {

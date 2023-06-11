@@ -30,4 +30,3 @@ Please refer to the LICENSE in the Git Repository 'the-nth-child'
 
 ## [Published Page]
 
-

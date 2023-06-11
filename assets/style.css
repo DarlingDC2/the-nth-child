@@ -83,12 +83,7 @@ a {
 }
   
 .fade:hover {
-    background-color: #004369;
-}
-
-.fade:focus,
-.fade:active {
-    transition: none;
+    background-color: #327fac;
 }
 
 .contact {
@@ -124,13 +119,10 @@ a {
     padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-  
-.footer h2 {
     font-size: 24px;
     color: var(--grey);
 }
-  
+
 /* @media screen and (max-width: 1030px) {
     .header h1 {
         font-size: 40px;

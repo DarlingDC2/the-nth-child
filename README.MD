@@ -18,9 +18,9 @@ The website is directed for employers to use to learn more about myself and how 
 
 ## Credits
 
-Any notes and work from MSU Coding Bootcamp [BCS](https://courses.bootcampspot.com/)
-[mdn](https://developer.mozilla.org/en-US/)
-[CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+Any notes and work from MSU Coding Bootcamp [BCS](https://courses.bootcampspot.com/) <br>
+[mdn](https://developer.mozilla.org/en-US/) <br>
+[CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <br>
 
 
 ## License

@@ -28,5 +28,5 @@ Any notes and work from MSU Coding Bootcamp [BCS](https://courses.bootcampspot.c
 Please refer to the LICENSE in the Git Repository 'the-nth-child'
 
 
-## [Published Page]
+## [Published Page](https://darlingdc2.github.io/the-nth-child/)
 

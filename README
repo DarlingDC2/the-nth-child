@@ -2,7 +2,7 @@
 
 ## Description
 
-Beginning code from scratch, the goal is to create a functional website that can be used as a portfoilio by employers.  It uses several different CSS and HTML types.
+Beginning code from scratch, the goal is to create a functional and interactive website that can be used as a portfoilio by employers.
 
 
 ## Table of Contents (Optional)
@@ -19,6 +19,8 @@ The website is directed for employers to use to learn more about myself and how 
 ## Credits
 
 Any notes and work from MSU Coding Bootcamp [BCS](https://courses.bootcampspot.com/)
+[mdn](https://developer.mozilla.org/en-US/)
+[CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
 ## License
